@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4NST3&layout=compact&theme=dark)
+
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=G4NST3.visitor-badge&left_color=red&right_color=green) -->
