@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   <img src="" title="" alt="" width="" height="50"/>&nbsp;
 </div>
 
-![This is an image](/images/apache.png)
+![This is an image](/images/apache1.png)
