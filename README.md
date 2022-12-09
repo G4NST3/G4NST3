@@ -25,4 +25,6 @@ Here are some ideas to get you started:
   <img src="" title="" alt="" width="" height="50"/>&nbsp;
 </div>
 
-![This is an image](/images/apache1.png)
+Languages and Tools:
+
+![](/images/linux.png) &nbsp; &nbsp; ![](/images/apache.png) &nbsp; &nbsp; ![](/images/vscode.png) &nbsp; &nbsp; ![](/images/gimp.png)
