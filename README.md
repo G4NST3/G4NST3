@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 </div>
 
 <div>
-  <img src="" title="Java" alt="Java" width="" height="50"/>&nbsp;
+  <img src="" title="" alt="" width="" height="50"/>&nbsp;
 </div>
