@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://komarev.com/ghpvc/?username=G4NST3&style=flat-square&color=blue" alt=""/>
-<div id="" align="center">
+
+<div id="" align="left">
   
- <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47jbunk2q2i9q99rfhs4po893v8cn0jr6byknuwqon&rid=giphy.gif&ct=s" height="200" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4NST3&layout=compact&theme=dark)
+<img src="https://komarev.com/ghpvc/?username=G4NST3&style=flat-square&color=blue" alt=""/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47jbunk2q2i9q99rfhs4po893v8cn0jr6byknuwqon&rid=giphy.gif&ct=s" height="200" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=G4NST3&layout=compact&theme=dark)
 </div>
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=G4NST3.visitor-badge&left_color=red&right_color=green) -->
@@ -49,5 +49,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/720px-Apache_HTTP_server_logo_%282019-present%29.svg.png?20220805205621" alt="The head and torso of a dinosaur skeleton; it has a large head with long sharp teeth" width="" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="The head and torso of a dinosaur skeleton; it has a large head with long sharp teeth" width="" height="50" />
-
-<img src="https://komarev.com/ghpvc/?username=G4NST3&style=flat-square&color=blue" alt=""/>
