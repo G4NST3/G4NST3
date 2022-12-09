@@ -25,6 +25,10 @@ Here are some ideas to get you started:
   <img src="" title="" alt="" width="" height="50"/>&nbsp;
 </div>
 
-Languages and Tools:
+:hammer_and_wrench: Languages and Tools:
 
-![](/images/linux.png) &nbsp; &nbsp; ![](/images/apache.png) &nbsp; &nbsp; ![](/images/vscode.png) &nbsp; &nbsp; ![](/images/gimp.png)
+![Linux](/images/linux.png) &nbsp; &nbsp;
+![Debian](/images/debian.png) &nbsp; &nbsp;
+![Apache](/images/apache.png) &nbsp; &nbsp;
+![Visual Studio Code](/images/vscode.png) &nbsp; &nbsp;
+![Gimp](/images/gimp.png)
