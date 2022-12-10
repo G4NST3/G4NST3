@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="" title="" alt="" width="" height="50"/>&nbsp;
 </div>
 
-:hammer_and_wrench: **Languages and Tools:**
+🛠️ **Languages and Tools:**
 
 <div id="" align="center">
 <a href="https://www.gimp.org/"> <img src="/images/linux.png" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
@@ -41,4 +41,6 @@ Here are some ideas to get you started:
 <a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.vmware.com/products/workstation-pro.html"> <img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-  </div>
+</div>
+<!-- ✔️ **Interests:** 
+<br> -->
