@@ -25,10 +25,10 @@ Here are some ideas to get you started:
   <img src="" title="" alt="" width="" height="50"/>&nbsp;
 </div>
 
-:hammer_and_wrench: Languages and Tools:
+:hammer_and_wrench: **Languages and Tools:**
 
-![Linux](/images/linux.png) &nbsp; &nbsp;
-![Debian](/images/debian.png) &nbsp; &nbsp;
-![Apache](/images/apache.png) &nbsp; &nbsp;
-![Visual Studio Code](/images/vscode.png) &nbsp; &nbsp;
-![Gimp](/images/gimp.png)
+<a href="https://www.gimp.org/"> <img src="/images/linux.png" alt="Linux" width="" height=""> </a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.debian.org/"> <img src="/images/debian.png" alt="Debian" width="" height=""> </a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.apache.org/"> <img src="/images/apache.png" alt="Apache" width="" height=""> </a>  &nbsp; &nbsp; &nbsp;
+<a href="https://code.visualstudio.com/"> <img src="/images/vscode.png" alt="Visual Studio Code" width="" height=""> </a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height=""> </a>  &nbsp; &nbsp; &nbsp;
