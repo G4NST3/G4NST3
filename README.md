@@ -63,7 +63,8 @@ Here are some ideas to get you started:
 <a href="https://surfshark.club/friend/mC8gAGaq"> <img src="/images/surfshark.png" alt="Surfshark" width="" height=""></a>
 
 🔥 **Best value for money VPN** 🔥 - ⬆️ **1 month FREE coupon for YOU** ⬆️ - ♾️ **Unlimited Devices and Traffic** ♾️<br/>
-🏃 **Fast connections speed** 🏃 - ☎️ **24/7 support** ☎️ - 🤑 **30-day money-back guarantee** 🤑
+🏃 **Fast connections speed** 🏃 - ☎️ **24/7 support** ☎️ - 🤑 **30-day money-back guarantee** 🤑<br/>
+🖥️ **Compatible with Windows, Linux, macOS, WireGuard/OpenVPN/IKEv2 routers, Chrome, Firefox, Edge, Android TV and Fire TV** 🖥️
 <p>
 
   <hr width="50%"/>
