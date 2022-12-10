@@ -53,16 +53,20 @@ Here are some ideas to get you started:
 🧠 **Currently Learning:** 
 
 <div id="" align="center">
-<a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"> <img src="/images/bash.png" alt="Bash" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <hr/>
 </div>
 
 ✔️ **Interestes and Recommendations:** 
 
 <div id="" align="center">
-<a href="https://surfshark.club/friend/mC8gAGaq/"> <img src="/images/surfshark.png" alt="Surfshark" width="" height=""></a> <- Best value for money VPN | Unlimited Devices | 24/7 support | 30-day money-back guarantee
+<a href="https://surfshark.club/friend/mC8gAGaq"> <img src="/images/surfshark.png" alt="Surfshark" width="" height=""></a>
+
+🔥 **Best value for money VPN** 🔥 - ⬆️ **1 month FREE coupon for YOU** ⬆️ - ♾️ **Unlimited Devices and Traffic** ♾️<br/>
+🏃 **Fast connections speed** 🏃 - ☎️ **24/7 support** ☎️ - 🤑 **30-day money-back guarantee** 🤑
 <p>
-  <p>
+
+  <hr width="50%"/>
+    
 <a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 </div>
-
