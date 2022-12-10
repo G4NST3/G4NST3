@@ -47,18 +47,19 @@ Here are some ideas to get you started:
 <a href="https://www.vmware.com/products/workstation-pro.html"> <img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 </div>
-<!--
+
 <br>
 
-🧐 **Interests:** 
+🧠 **Currently Learning:** 
+
+<div id="" align="center">
+<a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+
+</div>
+<hr width="100%" color="green" size="1px" align="" />
+✔️ **Interestes and Recommendations:** 
 
 <div id="" align="center">
 <a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 </div>
 
-✔️ **Recommendations:** 
-
-<div id="" align="center">
-<a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-</div>
--->
