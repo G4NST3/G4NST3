@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.gimp.org/"> <img src="/images/linux.png" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.debian.org/"> <img src="/images/debian.png" alt="Debian" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.kali.org/"> <img src="/images/kali.png" alt="Kali" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.apache.org/"> <img src="/images/apache.png" alt="Apache" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://developer.android.com/studio"> <img src="/images/androidstudio.png" alt="Android Studio" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://code.visualstudio.com/"> <img src="/images/vscode.png" alt="Visual Studio Code" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
