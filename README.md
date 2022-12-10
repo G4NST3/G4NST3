@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
 <div id="" align="center">
   
-![nunonogueir444's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunonogueir444&theme=merko&show_icons=true&count_private=true&bg_color=00000000&border_radius=1) &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunonogueir444&theme=merko&bg_color=00000000&border_radius=1)
+![nunonogueir444's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunonogueir444&theme=merko&show_icons=true&count_private=true&bg_color=00000000&border_radius=1) &nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunonogueir444&theme=merko&bg_color=00000000&border_radius=1)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://komarev.com/ghpvc/?username=G4NST3&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt=""/>
 </div>
