@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![nunonogueir444's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunonogueir444&theme=merko&show_icons=true&count_private=true&bg_color=00000000&border_radius=1) &nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunonogueir444&theme=merko&bg_color=00000000&border_radius=1)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://komarev.com/ghpvc/?username=G4NST3&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt=""/>
+<hr/>
 </div>
 
 🛠️ **Languages and Tools:**
@@ -46,20 +47,22 @@ Here are some ideas to get you started:
 <a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.vmware.com/products/workstation-pro.html"> <img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<hr/>
 </div>
-
-<br>
 
 🧠 **Currently Learning:** 
 
 <div id="" align="center">
 <a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-
+<hr/>
 </div>
-<hr width="100%" color="green" size="1px" align="" />
+
 ✔️ **Interestes and Recommendations:** 
 
 <div id="" align="center">
+<a href="https://kernel.org/"> <img src="/images/surfshark.gif" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+  <a href="https://kernel.org/"> <img src="/images/surfshark.png" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+  <a href="https://kernel.org/"> <img src="/images/surfshark1.png" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 </div>
 
