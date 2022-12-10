@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 ✔️ **Interestes and Recommendations:** 
 
 <div id="" align="center">
-<a href="https://kernel.org/"> <img src="/images/surfshark.gif" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-  <a href="https://kernel.org/"> <img src="/images/surfshark.png" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-  <a href="https://kernel.org/"> <img src="/images/surfshark1.png" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://surfshark.club/friend/mC8gAGaq/"> <img src="/images/surfshark.png" alt="Surfshark" width="" height=""></a> <- Best value for money VPN | Unlimited Devices | 24/7 support | 30-day money-back guarantee
+<p>
+  <p>
 <a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 </div>
 
