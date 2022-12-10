@@ -18,17 +18,14 @@ Here are some ideas to get you started:
 
 <div id="" align="left">
   
-<img src="https://komarev.com/ghpvc/?username=G4NST3&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt=""/> &nbsp; <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47jbunk2q2i9q99rfhs4po893v8cn0jr6byknuwqon&rid=giphy.gif&ct=s" height="150" />
+<img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47jbunk2q2i9q99rfhs4po893v8cn0jr6byknuwqon&rid=giphy.gif&ct=s" height="150" />
 </div>
   
 <div id="" align="center">
   
 ![nunonogueir444's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunonogueir444&theme=merko&show_icons=true&count_private=true&bg_color=00000000&border_radius=1) &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunonogueir444&theme=merko&bg_color=00000000&border_radius=1)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-</div>
-
-<div>
-  <img src="" title="" alt="" width="" height="50"/>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=G4NST3&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt=""/>
 </div>
 
 🛠️ **Languages and Tools:**
