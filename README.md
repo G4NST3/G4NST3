@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 🔥 **Best value for money VPN** 🔥 - ⬆️ **1 month FREE coupon for YOU** ⬆️ - ♾️ **Unlimited Devices and Traffic** ♾️<br/>
 🏃 **Fast connections speed** 🏃 - ☎️ **24/7 support** ☎️ - 🤑 **30-day money-back guarantee** 🤑<br/>
-🖥️ **compatibility: Windows, Linux, macOS, WireGuard/OpenVPN/IKEv2 routers, Chrome, Firefox, Edge, Android TV, Fire TV** 🖥️
+🖥️ **Compatibility: Windows, Linux, macOS, WireGuard/OpenVPN/IKEv2 routers, Chrome, Firefox, Edge, Android TV, Fire TV** 🖥️
 <p>
 
   <hr width="50%"/>
