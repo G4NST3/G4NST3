@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 <div id="" align="center">
   
 <img src="https://komarev.com/ghpvc/?username=G4NST3&style=flat-square&color=blue" alt=""/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47jbunk2q2i9q99rfhs4po893v8cn0jr6byknuwqon&rid=giphy.gif&ct=s" height="150" /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunonogueir444&layout=compact&theme=dark)
+
+![nunonogueir444's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunonogueir444&theme=dark,show_icons=true)
+<!-- add &hide=stars,commits,prs,issues,contribs to the end to hide query-->
+  
+  
 </div>
 
 <div>
