@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <div id="" align="left">
   
 <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47jbunk2q2i9q99rfhs4po893v8cn0jr6byknuwqon&rid=giphy.gif&ct=s" height="150" />
@@ -64,7 +62,7 @@ Here are some ideas to get you started:
 
 🔥 **Best value for money VPN** 🔥 - ⬆️ **1 month FREE coupon for YOU** ⬆️ - ♾️ **Unlimited Devices and Traffic** ♾️<br/>
 🏃 **Fast connections speed** 🏃 - ☎️ **24/7 support** ☎️ - 🤑 **30-day money-back guarantee** 🤑<br/>
-🖥️ **Compatible with Windows, Linux, macOS, WireGuard/OpenVPN/IKEv2 routers, Chrome, Firefox, Edge, Android TV and Fire TV** 🖥️
+🖥️ **compatibility: Windows, Linux, macOS, WireGuard/OpenVPN/IKEv2 routers, Chrome, Firefox, Edge, Android TV, Fire TV** 🖥️
 <p>
 
   <hr width="50%"/>
