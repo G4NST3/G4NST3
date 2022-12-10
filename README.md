@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.gimp.org/"> <img src="/images/linux.png" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.debian.org/"> <img src="/images/debian.png" alt="Debian" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.kali.org/"> <img src="/images/kali.png" alt="Kali" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://archlinux.org/"> <img src="/images/arch.png" alt="Arch" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://ubuntu.com/"> <img src="/images/ubuntu.png" alt="Ubuntu" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.apache.org/"> <img src="/images/apache.png" alt="Apache" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
 <a href="https://developer.android.com/studio"> <img src="/images/androidstudio.png" alt="Android Studio" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
