@@ -27,8 +27,12 @@ Here are some ideas to get you started:
 
 :hammer_and_wrench: **Languages and Tools:**
 
-<a href="https://www.gimp.org/"> <img src="/images/linux.png" alt="Linux" width="" height=""> </a>  &nbsp; &nbsp; &nbsp;
-<a href="https://www.debian.org/"> <img src="/images/debian.png" alt="Debian" width="" height=""> </a>  &nbsp; &nbsp; &nbsp;
-<a href="https://www.apache.org/"> <img src="/images/apache.png" alt="Apache" width="" height=""> </a>  &nbsp; &nbsp; &nbsp;
-<a href="https://code.visualstudio.com/"> <img src="/images/vscode.png" alt="Visual Studio Code" width="" height=""> </a>  &nbsp; &nbsp; &nbsp;
-<a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height=""> </a>  &nbsp; &nbsp; &nbsp;
+<a href="https://www.gimp.org/"> <img src="/images/linux.png" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.debian.org/"> <img src="/images/debian.png" alt="Debian" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.apache.org/"> <img src="/images/apache.png" alt="Apache" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://developer.android.com/studio"> <img src="/images/androidstudio.png" alt="Android Studio" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://code.visualstudio.com/"> <img src="/images/vscode.png" alt="Visual Studio Code" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.w3schools.com/c/"> <img src="/images/c.png" alt="c" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.vmware.com/products/workstation-pro.html"> <img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
