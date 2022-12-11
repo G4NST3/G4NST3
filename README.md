@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 <a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height="">C++</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.vmware.com/products/workstation-pro.html"><img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height="">VMware Workstation</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height="">Gimp</a> &nbsp; &nbsp; &nbsp;
+<a href="https://desktop.github.com/"> <img src="/images/githubdesktop.png" alt="GitHub Desktop" width="" height="">GitHub Desktop</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.gitkraken.com/"> <img src="/images/gitkraken.png" alt="GitKraken" width="" height="">GitKraken</a> &nbsp; &nbsp; &nbsp;
 <hr/>
 </div>
 
@@ -67,5 +69,5 @@ Here are some ideas to get you started:
 
   <hr width="50%"/>
     
-<a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> i3 Window Manager</a> &nbsp; &nbsp; &nbsp;
 </div>
