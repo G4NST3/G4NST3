@@ -67,9 +67,22 @@ Here are some ideas to get you started:
 🖥️ **Compatibility: Windows, Linux, macOS, WireGuard/OpenVPN/IKEv2 routers, Chrome, Firefox, Edge, Android TV, Fire TV** 🖥️
 <p>
 
-  <hr width="50%"/>
+<hr width="50%"/>
     
 <a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> i3 Window Manager</a> &nbsp; &nbsp; &nbsp;
+<hr/>
 </div>
 
+👷‍♂️ **Repositories:** 
+
+<div id="" align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/GNU-Linux)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
+</div>
