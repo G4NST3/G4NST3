@@ -44,7 +44,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/tmux/tmux/wiki/"> <img src="/images/tmux.png" alt="Tmux" width="" height=""> Tmux</a> &nbsp; &nbsp; &nbsp;
   <a href="https://www.openssh.com/"> <img src="/images/ssh.png" alt="Secure Shell Protocol" width="" height=""> Secure Shell Protocol</a> &nbsp; &nbsp; &nbsp;
 <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"> <img src="/images/bash.png" alt="Bash Script" width="" height="">Bash Script</a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.w3schools.com/c/"> <img src="/images/c.png" alt="c" width="" height="">C</a> &nbsp; &nbsp; &nbsp;
+<a href="https://en.wikipedia.org/wiki/HTML"> <img src="/images/html.png" alt="HTML" width="" height="">HTML</a> &nbsp; &nbsp; &nbsp;
+  <a href="https://www.w3schools.com/c/"> <img src="/images/c.png" alt="c" width="" height="">C</a> &nbsp; &nbsp; &nbsp;
 <a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height="">C++</a> &nbsp; &nbsp; &nbsp;
   <a href="https://www.virtualbox.org/"><img src="/images/virtualbox.png" alt="VirtualBox" width="" height="">VirtualBox</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.vmware.com/products/workstation-pro.html"><img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height="">VMware Workstation</a> &nbsp; &nbsp; &nbsp;
