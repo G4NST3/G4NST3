@@ -71,3 +71,5 @@ Here are some ideas to get you started:
     
 <a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> i3 Window Manager</a> &nbsp; &nbsp; &nbsp;
 </div>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
