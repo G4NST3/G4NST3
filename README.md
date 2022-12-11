@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 🛠️ **Languages and Tools:**
 
 <div id="" align="center">
-<a href="https://kernel.org/"> <img src="/images/linux.png" alt="Linux" width="" height="" target="_blank">Linux</a> &nbsp; &nbsp; &nbsp;
+<a href="https://kernel.org/" target="_blank" rel="noopener"> <img src="/images/linux.png" alt="Linux" width="" height="">Linux</a> &nbsp; &nbsp; &nbsp;
 <a href="https://archlinux.org/"> <img src="/images/arch.png" alt="Arch" width="" height=""> Arch Linux </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.debian.org/"> <img src="/images/debian.png" alt="Debian" width="" height="">Debian Linux</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.kali.org/"> <img src="/images/kali.png" alt="Kali" width="" height="">Kali Linux</a> &nbsp; &nbsp; &nbsp;
