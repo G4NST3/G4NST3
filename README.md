@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <div id="" align="left">
   
 <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47jbunk2q2i9q99rfhs4po893v8cn0jr6byknuwqon&rid=giphy.gif&ct=s" height="150" />
@@ -32,39 +30,39 @@ Here are some ideas to get you started:
 🛠️ **Languages and Tools:**
 
 <div id="" align="center">
-<a href="https://kernel.org/"> <img src="/images/linux.png" alt="Linux" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://archlinux.org/"> <img src="/images/arch.png" alt="Arch" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.debian.org/"> <img src="/images/debian.png" alt="Debian" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.kali.org/"> <img src="/images/kali.png" alt="Kali" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://ubuntu.com/"> <img src="/images/ubuntu.png" alt="Ubuntu" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.apache.org/"> <img src="/images/apache.png" alt="Apache" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://developer.android.com/studio"> <img src="/images/androidstudio.png" alt="Android Studio" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://code.visualstudio.com/"> <img src="/images/vscode.png" alt="Visual Studio Code" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.openssh.com/"> <img src="/images/ssh.png" alt="Secure Shell Protocol" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"> <img src="/images/bash.png" alt="Bash" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.vim.org/"> <img src="/images/vim.png" alt="Vim" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.w3schools.com/c/"> <img src="/images/c.png" alt="c" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.vmware.com/products/workstation-pro.html"> <img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://kernel.org/"> <img src="/images/linux.png" alt="Linux" width="" height="">Linux</a> &nbsp; &nbsp; &nbsp;
+<a href="https://archlinux.org/"> <img src="/images/arch.png" alt="Arch" width="" height=""> Arch Linux </a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.debian.org/"> <img src="/images/debian.png" alt="Debian" width="" height="">Debian Linux</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.kali.org/"> <img src="/images/kali.png" alt="Kali" width="" height="">Kali Linux</a> &nbsp; &nbsp; &nbsp;
+<a href="https://ubuntu.com/"> <img src="/images/ubuntu.png" alt="Ubuntu" width="" height="">Ubuntu Linux</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.apache.org/"> <img src="/images/apache.png" alt="Apache" width="" height="">Apache Server</a> &nbsp; &nbsp; &nbsp;
+<a href="https://developer.android.com/studio"> <img src="/images/androidstudio.png" alt="Android Studio" width="" height="">Android Studio</a> &nbsp; &nbsp; &nbsp;
+<a href="https://code.visualstudio.com/"> <img src="/images/vscode.png" alt="Visual Studio Code" width="" height=""> Visual Studio Code</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.openssh.com/"> <img src="/images/ssh.png" alt="Secure Shell Protocol" width="" height=""> Secure Shell Protocol</a> &nbsp; &nbsp; &nbsp;
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"> <img src="/images/bash.png" alt="Bash Script" width="" height="">Bash Script</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.vim.org/"> <img src="/images/vim.png" alt="Vim" width="" height="">Vim</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.w3schools.com/c/"> <img src="/images/c.png" alt="c" width="" height="">C</a> &nbsp; &nbsp; &nbsp;
+<a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height="">C++</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.vmware.com/products/workstation-pro.html"><img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height="">VMware Workstation</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height="">Gimp</a> &nbsp; &nbsp; &nbsp;
 <hr/>
 </div>
 
 🧠 **Currently Learning:** 
 
 <div id="" align="center">
-<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"> <img src="/images/bash.png" alt="Bash" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"> <img src="/images/bash.png" alt="Bash Script" width="" height=""> Bash Script</a> &nbsp; &nbsp; &nbsp;
 <hr/>
 </div>
 
 ✔️ **Interestes and Recommendations:** 
 
 <div id="" align="center">
-<a href="https://surfshark.club/friend/mC8gAGaq"> <img src="/images/surfshark.png" alt="Surfshark" width="" height=""></a>
+<a href="https://surfshark.club/friend/mC8gAGaq"> <img src="/images/surfshark.png" alt="Surfshark" width="" height="">Surfshark</a>
 
 🔥 **Best value for money VPN** 🔥 - ⬆️ **1 month FREE coupon for YOU** ⬆️ - ♾️ **Unlimited Devices and Traffic** ♾️<br/>
 🏃 **Fast connections speed** 🏃 - ☎️ **24/7 support** ☎️ - 🤑 **30-day money-back guarantee** 🤑<br/>
-🖥️ **Compatible with Windows, Linux, macOS, WireGuard/OpenVPN/IKEv2 routers, Chrome, Firefox, Edge, Android TV and Fire TV** 🖥️
+🖥️ **Compatibility: Windows, Linux, macOS, WireGuard/OpenVPN/IKEv2 routers, Chrome, Firefox, Edge, Android TV, Fire TV** 🖥️
 <p>
 
   <hr width="50%"/>
