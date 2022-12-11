@@ -45,6 +45,8 @@ Here are some ideas to get you started:
 <a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height="">C++</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.vmware.com/products/workstation-pro.html"><img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height="">VMware Workstation</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height="">Gimp</a> &nbsp; &nbsp; &nbsp;
+<a href="https://desktop.github.com/"> <img src="/images/githubdesktop.png" alt="GitHub Desktop" width="" height="">GitHub Desktop</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.gitkraken.com/"> <img src="/images/gitkraken.png" alt="GitKraken" width="" height="">GitKraken</a> &nbsp; &nbsp; &nbsp;
 <hr/>
 </div>
 
@@ -65,7 +67,20 @@ Here are some ideas to get you started:
 🖥️ **Compatibility: Windows, Linux, macOS, WireGuard/OpenVPN/IKEv2 routers, Chrome, Firefox, Edge, Android TV, Fire TV** 🖥️
 <p>
 
-  <hr width="50%"/>
+<hr width="50%"/>
     
-<a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> </a> &nbsp; &nbsp; &nbsp;
+<a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> i3 Window Manager</a> &nbsp; &nbsp; &nbsp;
+<hr/>
+</div>
+
+👷‍♂️ **Repositories:** 
+
+<div id="" align="center">
+  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/GNU-Linux) &nbsp; &nbsp; &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Shell_Script&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Shell_Script) &nbsp; &nbsp; &nbsp; <p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Windows&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Windows) &nbsp; &nbsp; &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Learn_Colors_for_Toddlers&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Learn_Colors_for_Toddlers) &nbsp; &nbsp; &nbsp; <p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Star_Wars_Guess&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Star_Wars_Guess) &nbsp; &nbsp; &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Guess_Animal_-_Kids_Game&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Guess_Animal_-_Kids_Game) &nbsp; &nbsp; &nbsp;
 </div>
