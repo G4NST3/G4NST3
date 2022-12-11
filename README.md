@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <div id="" align="center">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/GNU-Linux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/GNU-Linux) &nbsp; &nbsp; &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux)](https://github.com/nunonogueir444/GNU-Linux)
