@@ -48,6 +48,7 @@ Here are some ideas to get you started:
   <br><br>
 <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"> <img src="/images/bash.png" alt="Bash Script" width="" height="">Bash Script</a> &nbsp; &nbsp; &nbsp;
 <a href="https://en.wikipedia.org/wiki/HTML"> <img src="/images/html.png" alt="HTML" width="" height="">HTML</a> &nbsp; &nbsp; &nbsp;
+  <a href="https://en.wikipedia.org/wiki/CSS"> <img src="/images/css.png" alt="CSS" width="" height="">CSS</a> &nbsp; &nbsp; &nbsp;
   <a href="https://www.w3schools.com/c/"> <img src="/images/c.png" alt="c" width="" height="">C</a> &nbsp; &nbsp; &nbsp;
 <a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height="">C++</a> &nbsp; &nbsp; &nbsp;
     <br><br>
