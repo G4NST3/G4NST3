@@ -62,7 +62,8 @@ Here are some ideas to get you started:
 <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html/"> <img src="/images/bash.png" alt="Bash Script" width="" height=""> Bash Script</a> &nbsp; &nbsp; &nbsp;
 <a href="https://kubernetes.io/"> <img src="/images/kubernetes.png" alt="Kubernetes" width="" height="">Kubernetes</a> &nbsp; &nbsp; &nbsp;
   <a href="https://multipass.run/"> <img src="/images/multipass.png" alt="Multipass" width="" height="">Multipass</a> &nbsp; &nbsp; &nbsp;
-<a href="https://learn.microsoft.com/en-us/virtualization/"> <img src="/images/hyperv.png" alt="Hyper-V" width="" height="">Hyper-V</a> &nbsp; &nbsp; &nbsp;
+<a href="https://learn.microsoft.com/en-us/virtualization/"> <img src="/images/hyperv.png" alt="Hyper-V" width="" height=""></a> &nbsp; &nbsp; &nbsp;
+<a href="https://aws.amazon.com/"> <img src="/images/aws.png" alt="AWS Amazon Web Services" width="" height=""></a> &nbsp; &nbsp; &nbsp;
 <hr/>
 </div>
 
