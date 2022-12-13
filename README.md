@@ -60,7 +60,6 @@ Here are some ideas to get you started:
 <div id="" align="center">
 <a href="https://cyberireland.ie/"> <img src="/images/cybersecurity.png" alt="Cyber Security" width="" height="">Cyber Security</a> &nbsp; &nbsp; &nbsp;
 <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html/"> <img src="/images/bash.png" alt="Bash Script" width="" height=""> Bash Script</a> &nbsp; &nbsp; &nbsp;
-
 <a href="https://multipass.run/"> <img src="/images/multipass.png" alt="Multipass" width="" height="">Multipass</a> &nbsp; &nbsp; &nbsp;
 <a href="https://learn.microsoft.com/en-us/virtualization/"> <img src="/images/hyperv.png" alt="Hyper-V" width="" height="">Microsoft Hyper-V</a> &nbsp; &nbsp; &nbsp;
 
