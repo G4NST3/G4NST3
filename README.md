@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   <br><br>
 <a href="https://www.apache.org/"> <img src="/images/apache.png" alt="Apache" width="" height="">Apache Server</a> &nbsp; &nbsp; &nbsp;
     <a href="https://www.openssh.com/"> <img src="/images/ssh.png" alt="Secure Shell Protocol" width="" height=""> Secure Shell Protocol</a> &nbsp; &nbsp; &nbsp;
-    <a href="https://en.wikipedia.org/wiki/Unix_shell"> <img src="/images/shell.png" alt="Shell" width="" height="">Shell</a> &nbsp; &nbsp; &nbsp;
+    <a href="https://en.wikipedia.org/wiki/Unix_shell"> <img src="/images/shell.png" alt="Shell" width="" height=""> Shell</a> &nbsp; &nbsp; &nbsp;
   <a href="https://github.com/tmux/tmux/wiki/"> <img src="/images/tmux.png" alt="Tmux" width="" height=""> Tmux</a> &nbsp; &nbsp; &nbsp;  
   <br><br>
 <a href="https://developer.android.com/studio"> <img src="/images/androidstudio.png" alt="Android Studio" width="" height="">Android Studio</a> &nbsp; &nbsp; &nbsp;
