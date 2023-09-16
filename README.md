@@ -35,25 +35,26 @@ Here are some ideas to get you started:
 <a href="https://www.debian.org/"> <img src="/images/debian.png" alt="Debian" width="" height="">Debian Linux</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.kali.org/"> <img src="/images/kali.png" alt="Kali" width="" height="">Kali Linux</a> &nbsp; &nbsp; &nbsp;
 <a href="https://ubuntu.com/"> <img src="/images/ubuntu.png" alt="Ubuntu" width="" height="">Ubuntu Linux</a> &nbsp; &nbsp; &nbsp;
-  <br><br>
+<br><br>
 <a href="https://www.apache.org/"> <img src="/images/apache.png" alt="Apache" width="" height="">Apache Server</a> &nbsp; &nbsp; &nbsp;
-    <a href="https://www.openssh.com/"> <img src="/images/ssh.png" alt="Secure Shell Protocol" width="" height=""> Secure Shell Protocol</a> &nbsp; &nbsp; &nbsp;
-    <a href="https://en.wikipedia.org/wiki/Unix_shell"> <img src="/images/shell.png" alt="Shell" width="" height=""> Shell</a> &nbsp; &nbsp; &nbsp;
-  <a href="https://github.com/tmux/tmux/wiki/"> <img src="/images/tmux.png" alt="Tmux" width="" height=""> Tmux</a> &nbsp; &nbsp; &nbsp;  
-  <br><br>
+<a href="https://www.openssh.com/"> <img src="/images/ssh.png" alt="Secure Shell Protocol" width="" height=""> Secure Shell Protocol</a> &nbsp; &nbsp; &nbsp;
+<a href="https://en.wikipedia.org/wiki/Unix_shell"> <img src="/images/shell.png" alt="Shell" width="" height=""> Shell</a> &nbsp; &nbsp; &nbsp;
+<a href="https://github.com/tmux/tmux/wiki/"> <img src="/images/tmux.png" alt="Tmux" width="" height=""> Tmux</a> &nbsp; &nbsp; &nbsp;  
+<br><br>
 <a href="https://developer.android.com/studio"> <img src="/images/androidstudio.png" alt="Android Studio" width="" height="">Android Studio</a> &nbsp; &nbsp; &nbsp;
 <a href="https://code.visualstudio.com/"> <img src="/images/vscode.png" alt="Visual Studio Code" width="" height=""> Visual Studio Code</a> &nbsp; &nbsp; &nbsp;
-<a href="https://visualstudio.microsoft.com/vs/"> <img src="/images/visualstudio2022.png" width="" height=""> Visual Studio 2022</a> &nbsp; &nbsp; &nbsp;
+<a href="https://visualstudio.microsoft.com/vs/"> <img src="/images/visualstudio2022.png" alt="Visual Studio 2022" width="" height=""> Visual Studio 2022</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.vim.org/"> <img src="/images/vim.png" alt="Vim" width="" height="">Vim</a> &nbsp; &nbsp; &nbsp;
 <a href="https://neovim.io/"> <img src="/images/neovim.png" alt="Neovim" width="" height=""> Neovim</a> &nbsp; &nbsp; &nbsp;
-  <br><br>
+<br><br>
 <a href="https://tiswww.case.edu/php/chet/bash/bashtop.html"> <img src="/images/bash.png" alt="Bash Script" width="" height="">Bash Script</a> &nbsp; &nbsp; &nbsp;
 <a href="https://en.wikipedia.org/wiki/HTML"> <img src="/images/html.png" alt="HTML" width="" height="">HTML</a> &nbsp; &nbsp; &nbsp;
-  <a href="https://en.wikipedia.org/wiki/CSS"> <img src="/images/css.png" alt="CSS" width="" height="">CSS</a> &nbsp; &nbsp; &nbsp;
-  <a href="https://www.w3schools.com/c/"> <img src="/images/c.png" alt="c" width="" height="">C</a> &nbsp; &nbsp; &nbsp;
+<a href="https://en.wikipedia.org/wiki/CSS"> <img src="/images/css.png" alt="CSS" width="" height="">CSS</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.w3schools.com/c/"> <img src="/images/c.png" alt="c" width="" height="">C</a> &nbsp; &nbsp; &nbsp;
 <a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height="">C++</a> &nbsp; &nbsp; &nbsp;
-    <br><br>
-  <a href="https://www.virtualbox.org/"><img src="/images/virtualbox.png" alt="VirtualBox" width="" height="">VirtualBox</a> &nbsp; &nbsp; &nbsp;
+<a href="https://dev.java/"> <img src="/images/java.png" alt="Java" width="" height="">Java</a> &nbsp; &nbsp; &nbsp;
+<br><br>
+<a href="https://www.virtualbox.org/"><img src="/images/virtualbox.png" alt="VirtualBox" width="" height="">VirtualBox</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.vmware.com/products/workstation-pro.html"><img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height="">VMware Workstation</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height="">Gimp</a> &nbsp; &nbsp; &nbsp;
 <a href="https://desktop.github.com/"> <img src="/images/githubdesktop.png" alt="GitHub Desktop" width="" height="">GitHub Desktop</a> &nbsp; &nbsp; &nbsp;
