@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <hr/>
 <!--  </div> -->
 🛠️ **Languages and Tools:**
-
+<br>
 <div id="" align="center">
 <a href="https://kernel.org/"> <img src="/images/linux.png" alt="Linux" width="" height="">Linux</a> &nbsp; &nbsp; &nbsp;
 <a href="https://archlinux.org/"> <img src="/images/arch.png" alt="Arch" width="" height=""> Arch Linux </a> &nbsp; &nbsp; &nbsp;
