@@ -43,6 +43,7 @@ Here are some ideas to get you started:
   <br><br>
 <a href="https://developer.android.com/studio"> <img src="/images/androidstudio.png" alt="Android Studio" width="" height="">Android Studio</a> &nbsp; &nbsp; &nbsp;
 <a href="https://code.visualstudio.com/"> <img src="/images/vscode.png" alt="Visual Studio Code" width="" height=""> Visual Studio Code</a> &nbsp; &nbsp; &nbsp;
+<a href="https://visualstudio.microsoft.com/vs/"> <img src="/images/visualstudio2022.png" alt="Visual Studio 2022" width="" height=""> Visual Studio 2022</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.vim.org/"> <img src="/images/vim.png" alt="Vim" width="" height="">Vim</a> &nbsp; &nbsp; &nbsp;
 <a href="https://neovim.io/"> <img src="/images/neovim.png" alt="Neovim" width="" height=""> Neovim</a> &nbsp; &nbsp; &nbsp;
   <br><br>
