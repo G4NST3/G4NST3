@@ -54,6 +54,9 @@ Here are some ideas to get you started:
 <a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height="">C++</a> &nbsp; &nbsp; &nbsp;
 <a href="https://dev.java/"> <img src="/images/java.png" alt="Java" width="" height="">Java</a> &nbsp; &nbsp; &nbsp;
 <br><br>
+<a href="https://www.anaconda.com/"> <img src="/images/anaconda.png" alt="Anaconda" width="" height="">Anaconda</a> &nbsp; &nbsp; &nbsp;
+<a href="https://jupyter.org/"> <img src="/images/jupyter.png" alt="Jupyter" width="" height="">Jupyter</a> &nbsp; &nbsp; &nbsp;
+<br><br>  
 <a href="https://www.virtualbox.org/"><img src="/images/virtualbox.png" alt="VirtualBox" width="" height="">VirtualBox</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.vmware.com/products/workstation-pro.html"><img src="/images/vmwareworkstation.png" alt="VMware Workstation" width="" height="">VMware Workstation</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.gimp.org/"> <img src="/images/gimp.png" alt="Gimp" width="" height="">Gimp</a> &nbsp; &nbsp; &nbsp;
