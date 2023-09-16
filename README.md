@@ -53,6 +53,7 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/c/"> <img src="/images/c.png" alt="c" width="" height="">C</a> &nbsp; &nbsp; &nbsp;
 <a href="https://cplusplus.com/"> <img src="/images/c++.png" alt="c++" width="" height="">C++</a> &nbsp; &nbsp; &nbsp;
 <a href="https://dev.java/"> <img src="/images/java.png" alt="Java" width="" height="">Java</a> &nbsp; &nbsp; &nbsp;
+<a href="https://www.python.org/"> <img src="/images/python.png" alt="Python" width="" height="">Python</a> &nbsp; &nbsp; &nbsp;
 <br><br>
 <a href="https://www.anaconda.com/"> <img src="/images/anaconda.png" alt="Anaconda" width="" height="">Anaconda</a> &nbsp; &nbsp; &nbsp;
 <a href="https://jupyter.org/"> <img src="/images/jupyter.png" alt="Jupyter" width="" height="">Jupyter</a> &nbsp; &nbsp; &nbsp;
