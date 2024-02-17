@@ -59,18 +59,6 @@ Here are some ideas to get you started:
 <hr/>
 </div>
 
-🧠 **Currently Learning:** 
-
-<div id="" align="center">
-<a href="https://cyberireland.ie/"> <img src="/images/cybersecurity.png" alt="Cyber Security" width="" height="">Cyber Security</a> &nbsp; &nbsp; &nbsp;
-<a href="https://multipass.run/"> <img src="/images/multipass.png" alt="Multipass" width="" height="">Multipass</a> &nbsp; &nbsp; &nbsp;
-<a href="https://learn.microsoft.com/en-us/virtualization/"> <img src="/images/hyperv.png" alt="Hyper-V" width="" height="">Microsoft Hyper-V</a> &nbsp; &nbsp; &nbsp;
-<br/><br/>
-<a href="https://kubernetes.io/"> <img src="/images/kubernetes.png" alt="Kubernetes" width="" height="">Kubernetes</a> &nbsp; &nbsp; &nbsp;
-<a href="https://aws.amazon.com/"> <img src="/images/aws.png" alt="AWS Amazon Web Services" width="" height="">Amazon Web Services</a> &nbsp; &nbsp; &nbsp;
-<hr/>
-</div>
-
 ✔️ **Interestes and Recommendations:** 
 
 <div id="" align="center">
