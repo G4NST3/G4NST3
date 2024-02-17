@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 <a href="https://kernel.org/"> <img src="/images/linux.png" alt="Linux" width="" height="">Linux</a> &nbsp; &nbsp; &nbsp;
 <a href="https://archlinux.org/"> <img src="/images/arch.png" alt="Arch" width="" height=""> Arch Linux </a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.debian.org/"> <img src="/images/debian.png" alt="Debian" width="" height="">Debian Linux</a> &nbsp; &nbsp; &nbsp;
-<a href="https://www.kali.org/"> <img src="/images/kali.png" alt="Kali" width="" height="">Kali Linux</a> &nbsp; &nbsp; &nbsp;
-<a href="https://ubuntu.com/"> <img src="/images/ubuntu.png" alt="Ubuntu" width="" height="">Ubuntu Linux</a> &nbsp; &nbsp; &nbsp;
 <br><br>
 <a href="https://www.apache.org/"> <img src="/images/apache.png" alt="Apache" width="" height="">Apache Server</a> &nbsp; &nbsp; &nbsp;
 <a href="https://www.openssh.com/"> <img src="/images/ssh.png" alt="Secure Shell Protocol" width="" height=""> Secure Shell Protocol</a> &nbsp; &nbsp; &nbsp;
