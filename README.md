@@ -85,5 +85,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Guess_Animal_-_Kids_Game&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Guess_Animal_-_Kids_Game) &nbsp; &nbsp; &nbsp;
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunoalnogueir444)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunonogueir444)](https://github.com/anuraghazra/github-readme-stats)
 
