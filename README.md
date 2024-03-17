@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 <div id="" align="left"> <img src="https://media1.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47jbunk2q2i9q99rfhs4po893v8cn0jr6byknuwqon&rid=giphy.gif&ct=s" height="150" /></div> -->
 <div id="" align="center">
-![nunonogueir444's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunonogueir444&theme=merko&show_icons=true&count_private=true&bg_color=00000000&border_radius=1) &nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunonogueir444&theme=merko&bg_color=00000000&border_radius=1)
-https://github.com/anuraghazra/github-readme-stats
-<img src="https://komarev.com/ghpvc/?username=G4NST3&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt=""/>
-<hr/> -->
- </div>
+<!-- ![nunonogueir444's GitHub stats](https://github-readme-stats.vercel.app/api?username=nunonogueir444&theme=merko&show_icons=true&count_private=true&bg_color=00000000&border_radius=1) &nbsp; &nbsp; &nbsp; &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunonogueir444&theme=merko&bg_color=00000000&border_radius=1)-->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- <img src="https://komarev.com/ghpvc/?username=nunonogueir444&style=for-the-badge&color=blue&label=PROFILE+VIEWS" alt=""/>  -->
+<hr/>
+</div>
 <!--  🛠️ **Languages and Tools:** -->
 <div id="" align="center">
 <a href="https://kernel.org/"> <img src="/images/linux.png" alt="Linux" width="" height="">Linux</a> &nbsp; &nbsp; &nbsp;
@@ -71,19 +71,4 @@ https://github.com/anuraghazra/github-readme-stats
 <!--
 <a href="https://i3wm.org/"> <img src="/images/i3.png" alt="i3 Window Manager" width="" height=""> i3 Window Manager</a> &nbsp; &nbsp; &nbsp;
 <hr/>
-</div>
-
-👷‍♂️ **Repositories:** 
-
-<div id="" align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/GNU-Linux) &nbsp; &nbsp; &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Shell_Script&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Shell_Script) &nbsp; &nbsp; &nbsp; <p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Windows&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Windows) &nbsp; &nbsp; &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Learn_Colors_for_Toddlers&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Learn_Colors_for_Toddlers) &nbsp; &nbsp; &nbsp; <p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Star_Wars_Guess&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Star_Wars_Guess) &nbsp; &nbsp; &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Guess_Animal_-_Kids_Game&theme=merko&bg_color=00000000&border_radius=1)](https://github.com/nunonogueir444/Guess_Animal_-_Kids_Game) &nbsp; &nbsp; &nbsp; -->
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nunonogueir444&langs_count=8)
-
+</div> -->
