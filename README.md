@@ -10,3 +10,10 @@
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nunonogueir444&show_icons=true&theme=dark" />
 </a>
 </div>
+
+<a href="https://github.com/nunonogueir444/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
