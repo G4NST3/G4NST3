@@ -15,4 +15,7 @@
   <a href="https://github.com/nunonogueir444/dotfiles">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=dotfiles&show_icons=true&theme=dark" />
   </a>
+  <a href="https://github.com/nunonogueir444/GNU-Linux">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux&show_icons=true&theme=dark" />
+  </a>
 </div>
