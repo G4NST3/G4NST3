@@ -18,4 +18,9 @@
   <a href="https://github.com/nunonogueir444/GNU-Linux">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=GNU-Linux&show_icons=true&theme=dark" />
   </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+
 </div>
