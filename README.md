@@ -39,8 +39,4 @@
   <a href="https://github.com/nunonogueir444/Star_Wars_Guess">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=Star_Wars_Guess&show_icons=true&theme=dark" />
   </a>
-
-  <a href="https://github.com/nunonogueir444/DRIVE">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nunonogueir444&repo=DRIVE&show_icons=true&theme=dark" />
-  </a>
 </div>
